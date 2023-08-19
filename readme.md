@@ -5,6 +5,8 @@ Este foi o primeiro aplicativo que eu desenvolvi e, por isso, ele é bem simples
 Quem tiver interesse de fazer alguma contribuição ao código, poderá inserir nele uma lógica de programação que imprima um "status" com o resultado do IMC.
 Por exemplo: IMC 33,2 - Obesidade grau I.
 
+Para desenvolvê-lo, eu precisei instalar na minha máquina o Node.js e o Expo.
+
 Por ser um aplicativo desenvolvido apenas para aprendizagem, ele não foi disponibilizado para download.
 
 Eis um printscreen do app sendo executado em um smartphone Android:
