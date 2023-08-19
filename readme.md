@@ -9,4 +9,4 @@ Por ser um aplicativo desenvolvido apenas para aprendizagem, ele não foi dispon
 
 Eis um printscreen do app sendo executado em um smartphone Android:
 
-![Printscreen do aplicativo de IMC aberto em um smartphone Android](https://github.com/cvsbarros/app-imc/assets/81530035/81b54427-c78f-4153-8822-f44be65de19c)
+<img src="https://github.com/cvsbarros/app-imc/assets/81530035/81b54427-c78f-4153-8822-f44be65de19c" alt="Printscreen do aplicativo de IMC aberto em um smartphone Android" style="width:50%; height:auto;">
